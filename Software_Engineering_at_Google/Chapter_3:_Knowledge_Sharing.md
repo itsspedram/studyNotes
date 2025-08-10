@@ -2,7 +2,6 @@ Chapter 3: Knowledge Sharing
 ==============
 
 Knowledge sharing is an essential part of the job.
-
 When knowledge is trapped in one person's mind, it slows the team down --- and if anything happens to that person, the project can be seriously damaged.
 
 ---
